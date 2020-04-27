@@ -7,7 +7,7 @@
     <font style="vertical-align: inherit;">Isso aparece inicialmente no
     </font>
 </font>
-<a href="https://gist.github.com/PurpleBooth/109311bb0361f32d87a2">
+<a href="https://github.com/Adrianopvh/aula-git2/blob/master/README.md">
     <font style="vertical-align: inherit;">
         <font style="vartical-align: inherit;">gist</font>
     </font>
