@@ -28,3 +28,15 @@
         <font style="vertical-align: inherit;">Sumári</font>
     </font>
 </h2>
+
+<ul>
+<li><a href="#getting-started"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Começando</font></font></a></li>
+<li><a href="#running-the-tests"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Executando os testes</font></font></a></li>
+<li><a href="#deployment"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Desdobramento, desenvolvimento</font></font></a></li>
+<li><a href="#built-with"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Construído com</font></font></a></li>
+<li><a href="#contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contribuindo</font></font></a></li>
+<li><a href="#versioning"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Versionamento</font></font></a></li>
+<li><a href="#authors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autores</font></font></a></li>
+<li><a href="#license"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Licença</font></font></a></li>
+<li><a href="#acknowledgments"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Agradecimentos</font></font></a></li>
+</ul>
