@@ -1,6 +1,6 @@
 <h1>Projeto aula-git2</h1>
 
-<p>Promeiro projeto de criação de um Readme.md legal</p>
+<p>Primeiro projeto de criação de um Readme.md legal</p>
 
 <p>
 <font style="vertical-align: inherit;">
