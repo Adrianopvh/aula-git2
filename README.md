@@ -13,8 +13,7 @@
     </font>
 </a>
 <font style="vertical-align: inherit;">
-    <font style="vertical-align: inherit;">
-    ", mas como não consigo mais abrir a página, pois há muitos comentários, mudei para aqui."
+    <font style="vertical-align: inherit;">, mas como não consigo mais abrir a página, pois há muitos comentários, mudei para aqui.
     </font>
 </font>
 </p>
